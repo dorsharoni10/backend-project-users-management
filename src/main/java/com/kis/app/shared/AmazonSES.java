@@ -50,10 +50,6 @@ public class AmazonSES {
 
 	// send email to client to verify their email address
 	public void verifyEmail(UserDto userDto) {
-//
-//			// can also set keys in hard coded.
-//			System.setProperty("aws.accessKeyId", "AKIAYFI5PMLAZPUPCY72"); 
-//			System.setProperty("aws.secretKey", "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"); 
 
 		AmazonSimpleEmailService client = AmazonSimpleEmailServiceClientBuilder.standard().withRegion(Regions.US_EAST_1)
 				.build();
