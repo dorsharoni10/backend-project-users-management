@@ -1,4 +1,5 @@
-this project is my first Backend users management code that i write. 
+This project is the first Backend project I wrote. 
+In this project, I built a server-side user management system.
 With JAVA, RESTful Web Service, Spring MVC, Spring Boot and Spring Data JPA.
 Work with MySQL database. Use localhost and Aws servers with Apache Tomcat.
 Built on Linux OS.
