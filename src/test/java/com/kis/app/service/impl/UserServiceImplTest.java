@@ -33,7 +33,7 @@ import com.kis.app.shared.Utils;
 import com.kis.app.shared.dto.AddressDTO;
 import com.kis.app.shared.dto.UserDto;
 
-class UserServiceImplTest {
+class UserServiceImplTes {
 
 	@InjectMocks
 	UserServiceImpl userServiceImpl;
