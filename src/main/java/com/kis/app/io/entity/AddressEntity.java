@@ -14,7 +14,7 @@ import com.kis.app.shared.dto.UserDto;
 @Entity(name = "addresses")
 public class AddressEntity implements Serializable {
 
-	private static final long serialVersionUID = 7809200551672852690L;
+	private static final long serialVersionUID = 7809200551672852690L
 
 	@Id
 	@GeneratedValue
