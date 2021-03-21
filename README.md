@@ -9,4 +9,4 @@ features:
 - Email verification that send to the user email and the user need to verify the email to sign-in.
 - Reset password users.
 - Post Get Update and Delete users details. 
-- And more
+- And more.
