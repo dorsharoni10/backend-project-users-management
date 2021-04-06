@@ -28,7 +28,7 @@ class UserControllerTest {
 	@Mock
 	UserServiceImpl userService;
 
-	UserDto userDto;
+	UserDto userDto
 
 	final String USER_ID = "bnmsb234sa";
 
