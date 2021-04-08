@@ -1,6 +1,6 @@
 package com.kis.app.exceptions;
 
-import java.util.Date
+import java.util.Date;
 
 import org.springframework.http.HttpHeaders;
 import org.springframework.http.HttpStatus;
