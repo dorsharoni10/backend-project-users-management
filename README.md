@@ -5,7 +5,7 @@ Work with MySQL database. Use localhost and Aws servers with Apache Tomcat.
 Built on Linux OS.
 
 features:
-- User sign-up and User sign-in
+- User sign-up and User sign-in.
 - Email verification that send to the user email and the user need to verify the email to sign-in.
 - Reset password users.
 - Post Get Update and Delete users details. 
