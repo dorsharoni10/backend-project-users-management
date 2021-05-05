@@ -23,7 +23,7 @@ import static org.mockito.ArgumentMatchers.*;
 class UserControllerTest {
 
 	@InjectMocks
-	UserController userController;
+	UserController userController
 
 	@Mock
 	UserServiceImpl userService;
